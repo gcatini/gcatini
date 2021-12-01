@@ -3,7 +3,7 @@
 - 📚 Atualmente estou estudando desenvolvimento Front-End na **[Faculdade Iv2](https://faculdadeiv2.com.br/)**
 - 📘 Estou aprendendo - HTML - CSS - JavaScript 
 - 🖥️ Pretendo atuar no mercado de Programação
-- 🧠 Aprendendo sempre
+- 🧠 Aprendendo sempre !
 - 📫 E-mail: giovanni@catini.org
 ##
 
